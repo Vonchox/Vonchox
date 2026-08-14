@@ -1,4 +1,4 @@
-# ¡Hola! Soy Stiven Díaz 👋
+# ¡Hola! Soy Stiven Díaz 
 
 Estudiante de Ingeniería en Software en la ESPE, enfocado en desarrollo 
 móvil y fullstack. Actualmente construyendo proyectos con **Flutter**, 
