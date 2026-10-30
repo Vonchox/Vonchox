@@ -11,11 +11,9 @@ web y escritorio.
 
 ## 🚀 Proyectos destacados
 
-### 📱 [RayoGo](https://github.com/stivenddddiaz/rayogo)
 Aplicación móvil de delivery/entregas, publicada en Google Play Store.
 - 🛠️ Frontend con Flutter y React Native · Base de datos en PostgreSQL
-- 📲 [Disponible en Google Play](AQUÍ_TU_LINK_DE_PLAY_STORE)
-- 📂 [Ver código](https://github.com/stivenddddiaz/rayogo)
+
 
 ### 🌐 [Nombre de tu próximo proyecto]
 🚧 En desarrollo — plataforma multiplataforma (web, móvil, escritorio)
