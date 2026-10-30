@@ -20,7 +20,6 @@ Aplicación móvil de delivery/entregas, publicada en Google Play Store.
 - 📂 [Ver código](link)
 
 ## 📈 En proceso de aprendizaje
-- Ampliando RayoGo (u otros proyectos) a versión web y escritorio
 - Profundizando en arquitectura fullstack y despliegue en la nube
 
 ## 📫 Contacto
