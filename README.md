@@ -32,11 +32,11 @@ La demo funciona sin cuenta en celular y escritorio. Incluye un asistente de ori
 
 Guía web para descubrir conciertos, exposiciones, cine, teatro y talleres en Quito. La agenda permite buscar por artista, evento o lugar y filtrar por fecha, categoría y entrada gratuita.
 
-**[Probar demo web](https://quitovive.airycornbread.chatgpt.site/)** · [Ver código](https://github.com/Vonchox/QuitoVive)
+**[Probar demo web](https://vonchox.github.io/QuitoVive/)** · [Ver código](https://github.com/Vonchox/QuitoVive) · [Flujo de publicación](https://github.com/Vonchox/QuitoVive/actions/workflows/pages.yml)
 
-[![Portada de QuitoVive con una ilustración pixelada del Pichincha. Haz clic para abrir la demo.](assets/quitovive-demo.jpg)](https://quitovive.airycornbread.chatgpt.site/)
+[![Portada de QuitoVive con una ilustración pixelada del Pichincha. Haz clic para abrir la demo.](assets/quitovive-demo.jpg)](https://vonchox.github.io/QuitoVive/)
 
-**Tecnologías:** `Astro` · `TypeScript` · `CSS`
+**Tecnologías:** `Astro` · `TypeScript` · `CSS` · `GitHub Actions` · `GitHub Pages`
 
 Cada ficha enlaza a la fuente consultada e indica cuándo se verificó. El blog reúne guías de fin de semana y notas sobre artistas y espacios culturales.
 
