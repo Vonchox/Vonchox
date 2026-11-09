@@ -28,6 +28,18 @@ Aplicación web para explorar becas y programas de movilidad, con guías y fuent
 
 La demo funciona sin cuenta en celular y escritorio. Incluye un asistente de orientación y guarda el historial de evaluaciones en el navegador.
 
+### QuitoVive · Agenda cultural de Quito
+
+Guía web para descubrir conciertos, exposiciones, cine, teatro y talleres en Quito. La agenda permite buscar por artista, evento o lugar y filtrar por fecha, categoría y entrada gratuita.
+
+**[Probar demo web](https://quitovive.airycornbread.chatgpt.site/)** · [Ver código](https://github.com/Vonchox/QuitoVive)
+
+[![Portada de QuitoVive con una ilustración pixelada del Pichincha. Haz clic para abrir la demo.](assets/quitovive-demo.jpg)](https://quitovive.airycornbread.chatgpt.site/)
+
+**Tecnologías:** `Astro` · `TypeScript` · `CSS`
+
+Cada ficha enlaza a la fuente consultada e indica cuándo se verificó. El blog reúne guías de fin de semana y notas sobre artistas y espacios culturales.
+
 ## Contacto
 
 [LinkedIn](https://linkedin.com/in/stivenddddiaz) · [Correo](mailto:stivenhernan1258@gmail.com)
