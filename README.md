@@ -1,27 +1,27 @@
-# ¡Hola! Soy Stiven Díaz 
+# Hola, soy Stiven Díaz
 
-Estudiante de Ingeniería en Software en la ESPE, enfocado en desarrollo 
-móvil y fullstack. Actualmente construyendo proyectos con **Flutter**, 
-**React Native** y **PostgreSQL**, con ganas de seguir ampliando hacia 
-web y escritorio.
+Estudio Ingeniería en Software en la ESPE. Desarrollo aplicaciones con Flutter y Dart y me interesa llevar una misma aplicación a la web, al celular y al escritorio. También exploro el desarrollo fullstack y la automatización de despliegues.
 
-## 🛠️ Stack
+## Proyecto destacado
 
-`Flutter` · `React Native` · `PostgreSQL` · `JavaScript` · `React` · `Node.js`
+### EVENTUAL · Gestión de eventos para clubes
 
-## 🚀 Proyectos destacados
+Proyecto académico en equipo. La demo permite consultar el calendario del club, confirmar asistencia con acompañantes y proponer actividades. Puedes cambiar al perfil simulado de presidente para probar la aprobación de una propuesta.
 
-Aplicación móvil de delivery/entregas, publicada en Google Play Store.
-- 🛠️ Frontend con Flutter y React Native · Base de datos en PostgreSQL
+**[Probar demo web](https://vonchox.github.io/Eventual/)** · [Ver código](https://github.com/Vonchox/Eventual) · [Compilaciones de Android y Windows](https://github.com/Vonchox/Eventual/actions/workflows/native.yml)
 
+[![Pantalla de inicio de EVENTUAL con calendario y menú de eventos. Haz clic para abrir la demo.](https://raw.githubusercontent.com/Vonchox/Eventual/main/docs/demo-desktop.jpg)](https://vonchox.github.io/Eventual/)
 
-### 🌐 [Nombre de tu próximo proyecto]
-🚧 En desarrollo — plataforma multiplataforma (web, móvil, escritorio)
-- 📂 [Ver código](link)
+**Tecnologías:** `Flutter` · `Dart` · `GitHub Actions` · `GitHub Pages`
 
-## 📈 En proceso de aprendizaje
-- Profundizando en arquitectura fullstack y despliegue en la nube
+Un mismo cliente para web, Android y Windows. La demo usa datos ficticios y cada instalación guarda sus cambios localmente.
 
-## 📫 Contacto
+## Otros proyectos
 
-[LinkedIn](https://linkedin.com/in/stivenddddiaz) · [Email](mailto:stivenhernan1258@gmail.com)
+### [Career Fit](https://github.com/Vonchox/career-fit)
+
+Herramienta en JavaScript para consultar la elegibilidad para movilidad académica internacional en la ESPE según carrera, semestre y promedio.
+
+## Contacto
+
+[LinkedIn](https://linkedin.com/in/stivenddddiaz) · [Correo](mailto:stivenhernan1258@gmail.com)
